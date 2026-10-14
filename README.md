@@ -88,7 +88,7 @@ Note: Observed patterns do not, by themselves, establish causation or prove insu
 
 🖥️ Dashboard Preview
 
-Dashboard screenshots will be added to the Screenshots/ folder.
+![Vehicle Insurance Risk and Claim Analysis Dashboard](dashboard-overview.png)
 
 📂 Repository Structure
 
